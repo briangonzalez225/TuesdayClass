@@ -6,18 +6,18 @@ Do these steps once, at the start of the project.
  
 1. **Make your copy.** At the top of this page, click **Use this template** › **Create a new repository**. Give it a short name in lowercase, with hyphens instead of spaces (for example, `zombie-white-paper`). Leave it **Public**, because GitHub Pages only publishes public repositories on a free account.
 2. **Set your site address.** Open `docusaurus.config.js`, click the pencil icon, and change these lines near the top to use your own GitHub username and repository name:
-```js
-   url: 'https://YOUR-USERNAME.github.io',
-   baseUrl: '/YOUR-REPO-NAME/',
-   organizationName: 'YOUR-USERNAME',
-   projectName: 'YOUR-REPO-NAME',
+
+   url: 'https://briangonzalez225.github.io',
+   baseUrl: '/TuesdayClass/',
+   organizationName: 'briangonzalez225',
+   projectName: 'TuesdayClass',
    trailingSlash: false,
    onBrokenLinks: 'throw',
-```
+
  
    Keep the quotation marks, the commas, and the slashes on both sides of the repository name in `baseUrl`. Then click **Commit changes**.
-3. **Turn on GitHub Pages.** In your new repository, go to **Settings** › **Pages**. Under **Build and deployment** › **Source**, choose **GitHub Actions**.
-4. **Publish for the first time.** Go to the **Actions** tab, click **Deploy to GitHub Pages** on the left, then click **Run workflow** › **Run workflow**. Wait about 2–3 minutes for two green checks.
+4. **Turn on GitHub Pages.** In your new repository, go to **Settings** › **Pages**. Under **Build and deployment** › **Source**, choose **GitHub Actions**.
+5. **Publish for the first time.** Go to the **Actions** tab, click **Deploy to GitHub Pages** on the left, then click **Run workflow** › **Run workflow**. Wait about 2–3 minutes for two green checks.
  
 Your site is now live at:
  
