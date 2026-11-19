@@ -22,6 +22,8 @@ The Isla Vista Community Services District[^ivcsd] must immediately draft a form
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
 
+![A picture of sheep](/img/sheep.jpg)
+
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
 Two esteemed biologists have made the following observations about the existence of zombies:
